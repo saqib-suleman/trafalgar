@@ -1,5 +1,6 @@
 body {
     font-family: 'Mulish', sans-serif;
+    font-weight: 700;
 }
 
 .badge {
@@ -19,9 +20,40 @@ body {
     display: inline;
     }
 
+.active{
+    font-weight: 700 !important;
+}
 .nav-item {
     font-size: 18px;
     line-height: 22.59px;
     font-weight: 400;
     color: #7D7987;
 }
+
+#mainheader {
+    font-size: 48px;
+    line-height: 56px;
+}
+
+#headcontent {
+    font-weight:300;
+    font-size: 21px;
+    line-height: 32px;
+    color: #7D7987;    
+}
+
+.header button{
+border-radius: 55px;
+color: white;
+font-size: 18px;
+line-height: 60px;
+background: #458FF6;
+padding: 0 40px;
+height: 56px;
+display: flex;
+align-items: center;
+border:none;
+}
+
+
+

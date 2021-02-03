@@ -87,6 +87,7 @@ button {
     line-height: 50px;
     font-weight: 700;
     padding: 0 51px;
+    margin: 20px 0;
 }
 
 #bluebox {
@@ -120,12 +121,15 @@ button {
 border-radius: 20px;
 }
 
-#background1 {
-    background-color:transparent;
-    background-image: url("backimgs/element.svg");
-    background: no-repeat;
-}
-
 #edward {
     border-radius: 50%;
+}
+
+section {
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
+.header {
+    margin-top: 80px;
 }

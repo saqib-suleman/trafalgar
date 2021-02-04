@@ -8,15 +8,14 @@ body {
     background: #458FF6;
     border-radius: 50%;
     border-color: white;
-    font-size: 26px;
-    line-height: 32.63px;
+    font-size: 1.625rem;
+    line-height: 2.039rem;
     }
 
 #heading {
     color: #233348;
-    ;
-    font-size: 24px;
-    line-height: 30.12px;
+    font-size: 1.5rem;
+    line-height: 1.883rem;
     display: inline;
     }
 
@@ -24,33 +23,33 @@ body {
     font-weight: 700 !important;
 }
 .nav-item {
-    font-size: 18px;
-    line-height: 22.59px;
+    font-size: 1.125rem;
+    line-height: 1.412rem;
     font-weight: 400;
     color: #7D7987;
 }
 
 h1 {
     font-weight: 700;
-    font-size: 48px;
-    line-height: 56px;
+    font-size: 3rem;
+    line-height: 3.5rem;
 }
 
 #headcontent {
     font-weight:300;
-    font-size: 21px;
-    line-height: 32px;
+    font-size: 1.313rem;
+    line-height: 2rem;
     color: #7D7987;    
 }
 
 .header button{
-border-radius: 55px;
+border-radius: 3.438rem;
 color: white;
-font-size: 18px;
-line-height: 60px;
+font-size: 1.125rem;
+line-height: 3.75rem;
 background: #458FF6;
-padding: 0 40px;
-height: 56px;
+padding: 0 2.5rem;
+height: 3.5rem;
 display: flex;
 align-items: center;
 border:none;
@@ -58,14 +57,14 @@ border:none;
 
 h2 {
     font-weight: 700;
-    font-size: 36px;
-    line-height: 56px;    
+    font-size: 2.25rem;
+    line-height: 3.5rem;    
 }
 
 p {
     font-weight: 300;
-    font-size: 18px;
-    line-height: 30px;
+    font-size: 1.125rem;
+    line-height: 1.875rem;
     color: #7D7987;
 }
 
@@ -73,56 +72,56 @@ p {
 
 h3 {
     font-weight: 700;
-    font-size: 24px;
-    line-height: 56px;    
+    font-size: 1.5rem;
+    line-height: 3.5rem;    
 }
 
 button {
-    border: 1.4px solid #458FF6;
+    border: 0.088rem solid #458FF6;
     box-sizing: border-box;
-    border-radius: 55px;
+    border-radius: 3.438rem;
     color: #458FF6;
     background: white;
-    font-size: 18px;
-    line-height: 50px;
+    font-size: 1.125rem;
+    line-height: 3.125rem;
     font-weight: 700;
-    padding: 0 51px;
-    margin: 20px 0;
+    padding: 0 3.188rem;
+    margin: 1.25rem 0;
 }
 
 #bluebox {
     background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
-    width: 1120px;
-    height: 425px;
-    border-radius: 24px;
+    width: 70rem;
+    height: 26.563rem;
+    border-radius: 1.5rem;
     color: white;
-    padding: 25px 50px;
+    padding: 1.563rem 3.125rem;
 }
 
 #bluebox p {
     font-weight: 400;
-    font-size: 18px;
-    line-height: 30px;
+    font-size: 1.125rem;
+    line-height: 1.875rem;
     color: white;
 }
 
 #footer {
     background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
     color: white;
-    width: 1600px;
-    height: 360px;
+    width: 100rem;
+    height: 22.5rem;
 }
 
 #footer p{
     font-weight: 300;
-    font-size: 18px;
-    line-height: 38px;
+    font-size: 1.125rem;
+    line-height: 2.375rem;
     color: white;
 }
 
 #blocks {
-    box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
-border-radius: 20px;
+    box-shadow: 0.625rem 2.5rem 3.125rem rgba(229, 233, 246, 0.4);
+border-radius: 1.25rem;
 }
 
 #edward {
@@ -130,19 +129,19 @@ border-radius: 20px;
 }
 
 section {
-    margin-top: 200px;
-    margin-bottom: 200px;
+    margin-top: 12.5rem;
+    margin-bottom: 12.5rem;
 }
 
 .header {
-    margin-top: 80px;
+    margin-top: 5rem;
 }
 
 #readmore{
     font-weight: 700;
-    font-size: 17px;
-    line-height: 28px;
+    font-size: 1.063rem;
+    line-height: 1.75rem;
     color: #4089ED !important;
-    margin: 30px 0;
+    margin: 1.875rem 0;
 }
 

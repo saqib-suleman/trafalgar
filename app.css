@@ -42,7 +42,32 @@ h1 {
     color: #7D7987;    
 }
 
-.header button{
+.btn-rounded-big{
+    background-color: #458FF6;
+    color: white;
+}
+
+
+
+.btn{
+    border-radius: 2rem;
+    padding: 1rem 2rem;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 700;
+    width: 12.5rem;
+}
+
+.btn-outline-big{
+    background-color: white;
+    border: 2px solid #458FF6;
+    color: #458FF6;
+}
+
+}
+
+/* .header button{
 border-radius: 3.438rem;
 color: white;
 font-size: 1.125rem;
@@ -53,7 +78,7 @@ height: 3.5rem;
 display: flex;
 align-items: center;
 border:none;
-}
+} */
 
 h2 {
     font-weight: 700;
@@ -76,7 +101,7 @@ h3 {
     line-height: 3.5rem;    
 }
 
-button {
+/* button {
     border: 0.088rem solid #458FF6;
     box-sizing: border-box;
     border-radius: 3.438rem;
@@ -87,7 +112,7 @@ button {
     font-weight: 700;
     padding: 0 3.188rem;
     margin: 1.25rem 0;
-}
+} */
 
 #bluebox {
     background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
@@ -122,6 +147,7 @@ button {
 #blocks {
     box-shadow: 0.625rem 2.5rem 3.125rem rgba(229, 233, 246, 0.4);
 border-radius: 1.25rem;
+z-index: 2;
 }
 
 #edward {
@@ -143,5 +169,11 @@ section {
     line-height: 1.75rem;
     color: #4089ED !important;
     margin: 1.875rem 0;
+}
+
+#back1{
+    position: absolute;
+    left: 0;
+    top: 8rem;
 }
 

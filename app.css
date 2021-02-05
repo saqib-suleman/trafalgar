@@ -116,12 +116,20 @@ h3 {
 
 #bluebox {
     background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
-    width: 70rem;
-    height: 26.563rem;
+    /* width: 70rem;
+    height: 26.563rem; */
     border-radius: 1.5rem;
     color: white;
     padding: 1.563rem 3.125rem;
 }
+
+/* @media(min-width:768px){
+    #bluebox{
+        width: 40rem;
+        height: 18rem;
+    }
+
+} */
 
 #bluebox p {
     font-weight: 400;
@@ -133,8 +141,8 @@ h3 {
 #footer {
     background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
     color: white;
-    width: 100rem;
-    height: 22.5rem;
+    /* width: 100rem;
+    height: 22.5rem; */
 }
 
 #footer p{
@@ -147,7 +155,7 @@ h3 {
 #blocks {
     box-shadow: 0.625rem 2.5rem 3.125rem rgba(229, 233, 246, 0.4);
 border-radius: 1.25rem;
-z-index: 2;
+background-color: white;
 }
 
 #edward {
@@ -175,5 +183,55 @@ section {
     position: absolute;
     left: 0;
     top: 8rem;
+}
+#back2{
+    position: absolute;
+    right: 0;
+    top: 170rem;
+}
+#back3{
+    position: absolute;
+    left: 8%;
+    top: 242rem;
+}
+#back4{
+    position: absolute;
+    left: 13%;
+    top: 270rem;
+}
+#back5{
+    position: absolute;
+    left:6.5%;
+    top: 338rem;
+}
+
+#services{
+    background-image: url("backsvgs/Vector.svg");
+    background-position: left;
+    background-repeat: no-repeat;
+}
+
+#articles{
+    background-image: url("backsvgs/element.svg");
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+@media (min-width: 200px){
+    body{
+        text-align: center;
+    }
+}
+
+@media (min-width: 576px){
+    body{
+        text-align: center;
+    }
+}
+
+@media (min-width: 768px){
+    body{
+        text-align: center;
+    }
 }
 

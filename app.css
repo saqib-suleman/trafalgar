@@ -65,20 +65,6 @@ h1 {
     color: #458FF6;
 }
 
-}
-
-/* .header button{
-border-radius: 3.438rem;
-color: white;
-font-size: 1.125rem;
-line-height: 3.75rem;
-background: #458FF6;
-padding: 0 2.5rem;
-height: 3.5rem;
-display: flex;
-align-items: center;
-border:none;
-} */
 
 h2 {
     font-weight: 700;
@@ -101,35 +87,14 @@ h3 {
     line-height: 3.5rem;    
 }
 
-/* button {
-    border: 0.088rem solid #458FF6;
-    box-sizing: border-box;
-    border-radius: 3.438rem;
-    color: #458FF6;
-    background: white;
-    font-size: 1.125rem;
-    line-height: 3.125rem;
-    font-weight: 700;
-    padding: 0 3.188rem;
-    margin: 1.25rem 0;
-} */
 
 #bluebox {
     background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
-    /* width: 70rem;
-    height: 26.563rem; */
     border-radius: 1.5rem;
     color: white;
     padding: 1.563rem 3.125rem;
 }
 
-/* @media(min-width:768px){
-    #bluebox{
-        width: 40rem;
-        height: 18rem;
-    }
-
-} */
 
 #bluebox p {
     font-weight: 400;
@@ -141,8 +106,6 @@ h3 {
 #footer {
     background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
     color: white;
-    /* width: 100rem;
-    height: 22.5rem; */
 }
 
 #footer p{
